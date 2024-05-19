@@ -1,0 +1,4 @@
+baseURL = 'https://marisseboutique.com'
+languageCode = 'en-us'
+title = 'Marisse Boutique'
+theme = 'hugo-split-theme'
