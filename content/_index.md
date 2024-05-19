@@ -1,6 +1,6 @@
 +++
-title = "Marisse Boutique"
-tagline = "by Marissa Viana"
+title = "EJ's Japan Branded Collection"
+tagline = "Marisse Boutique"
 +++
-Licensed seller of Pre-owned Luxury Bags, Jewelries and Watches in Japan
+Licensed seller of Pre-owned luxury Bags, Jewelries and Watches in Japan
 
