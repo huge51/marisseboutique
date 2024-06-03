@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EJ&#39;s Japan Branded Collection on Marisse Boutique</title>
-    <link>https://www.marisseboutique.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in EJ&#39;s Japan Branded Collection on Marisse Boutique</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 May 2024 23:11:35 +0900</lastBuildDate>
-    <atom:link href="https://www.marisseboutique.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Luctus Urna</title>
-      <link>https://www.marisseboutique.com/luctus-urna/</link>
+      <link>http://localhost:1313/luctus-urna/</link>
       <pubDate>Sun, 19 May 2024 23:11:35 +0900</pubDate>
-      <guid>https://www.marisseboutique.com/luctus-urna/</guid>
+      <guid>http://localhost:1313/luctus-urna/</guid>
       <description></description>
     </item>
     <item>
       <title>ipsum in</title>
-      <link>https://www.marisseboutique.com/ipsum-in/</link>
+      <link>http://localhost:1313/ipsum-in/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.marisseboutique.com/ipsum-in/</guid>
+      <guid>http://localhost:1313/ipsum-in/</guid>
       <description>Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci.</description>
     </item>
     <item>
       <title>purus sem</title>
-      <link>https://www.marisseboutique.com/purus-sem/</link>
+      <link>http://localhost:1313/purus-sem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.marisseboutique.com/purus-sem/</guid>
+      <guid>http://localhost:1313/purus-sem/</guid>
       <description>Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus.</description>
     </item>
   </channel>
