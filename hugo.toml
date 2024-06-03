@@ -1,4 +1,5 @@
-baseURL = 'https://marisseboutique.com'
+#baseURL = 'https://marisseboutique.com'
+baseURL = 'https://marisseboutique.pages.dev'
 languageCode = 'en-us'
 title = 'Marisse Boutique'
-theme = 'ananke'
+theme = 'hugo-split-theme'
