@@ -1,5 +1,5 @@
-#baseURL = 'https://marisseboutique.com'
-baseURL = 'https://marisseboutique.pages.dev'
+baseURL = 'https://www.marisseboutique.com'
+#baseURL = 'https://marisseboutique.pages.dev'
 languageCode = 'en-us'
 title = 'Marisse Boutique'
 theme = 'hugo-split-theme'

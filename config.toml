@@ -1,6 +1,7 @@
 # Site settings
 #baseURL = "https://example.com"
-baseURL = 'https://marisseboutique.pages.dev'
+#baseURL = 'https://marisseboutique.pages.dev'
+baseURL = 'https://www.marisseboutique.com'
 languageCode = "en-US"
 title = "Split - HTML Template Demo"
 theme = "hugo-split-theme"
