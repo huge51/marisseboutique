@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.marisseboutique.com/</loc>
     <lastmod>2024-05-19T23:11:35+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/luctus-urna/</loc>
+    <loc>https://www.marisseboutique.com/luctus-urna/</loc>
     <lastmod>2024-05-19T23:11:35+09:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.marisseboutique.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/ipsum-in/</loc>
+    <loc>https://www.marisseboutique.com/ipsum-in/</loc>
   </url><url>
-    <loc>http://localhost:1313/purus-sem/</loc>
+    <loc>https://www.marisseboutique.com/purus-sem/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.marisseboutique.com/tags/</loc>
   </url>
 </urlset>
